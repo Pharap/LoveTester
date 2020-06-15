@@ -27,7 +27,7 @@ namespace Images
 	constexpr uint8_t emptyHeartFrame = 0;
 	constexpr uint8_t fullHeartFrame = 3;
 
-	const uint8_t heart[] PROGMEM =
+	constexpr uint8_t heart[] PROGMEM =
 	{
 		// Dimensions
 		heartWidth, heartHeight,

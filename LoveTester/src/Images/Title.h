@@ -24,7 +24,7 @@ namespace Images
 	constexpr uint8_t titleWidth = 96;
 	constexpr uint8_t titleHeight = 10;
 
-	uint8_t const title[] PROGMEM =
+	constexpr uint8_t title[] PROGMEM =
 	{
 		// Dimensions
 		titleWidth, titleHeight,
