@@ -1,7 +1,7 @@
 #pragma once
 
 //
-// Copyright (C) 2019 Pharap (@Pharap)
+// Copyright (C) 2019-2020 Pharap (@Pharap)
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
